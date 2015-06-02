@@ -2,6 +2,16 @@
 
 These are just some programs I made to learn to build GUIs with GTK+-3.0
 
+###Dependencies
+To compile you will need 
+1. gcc
+2. gtk+-3.0
+
+gcc should be installed in most linux distros.
+
+To install on debian based linux distros use
+
+```sudo apt-get install gcc gtk+-3.0```
 ###Compiling
 To compile run 
 
