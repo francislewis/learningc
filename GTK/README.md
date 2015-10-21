@@ -1,6 +1,6 @@
 #GTK
 
-These are just some programs I made to learn to build GUIs with GTK+-3.0
+These are just some programs I made to learn to build GUIs with [GTK+-3.0](https://developer.gnome.org/gtk3/3.0/)
 
 ###Dependencies
 To compile you will need 
